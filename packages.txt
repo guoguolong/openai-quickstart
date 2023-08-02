@@ -1,0 +1,2 @@
+pip install tiktoken openai pandas matplotlib plotly scikit-learn numpy
+pip install  pdfplumber simplejson requests PyYAML pillow reportlab pandas loguru openai
